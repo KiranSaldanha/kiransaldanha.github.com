@@ -1,0 +1,13 @@
+h1 {
+  font-family Georgia;
+  font-size: 1.5em;
+}
+
+p.message {
+  font-family Georgia
+  font-size: 1.5em;
+}
+
+img.big-poster {
+  width: 50%;
+}
