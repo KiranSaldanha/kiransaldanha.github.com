@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['email'])) {
 	
-	// CHANGE THE TWO LINES BELOW
+	//CHANGE THE TWO LINES BELOW
 	$email_to = "info@weddingsandwishes.in";
 	
 	$email_subject = "Website Enquiry";
