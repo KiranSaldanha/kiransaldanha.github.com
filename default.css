@@ -7,8 +7,8 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #FBF7EC url(images/img03.png) repeat-x;
-	font:  Zapfino;
+	background: #FFFFFF url(images/img03.png) repeat-x;
+	font: Zapfino linotype one;
 	color: #999999;
 }
 
@@ -50,12 +50,12 @@ a:hover {
 /* Logo */
 
 #logo {
-	height: 74px;
+	height: 110px;
 }
 
 #logo h1 {
-	float: center;
-	padding: 0px 0px 0 0;
+	float: left;
+	padding: 40px 40px 0 0;
 	//background: url(images/img02.gif) no-repeat right center;
 	letter-spacing: -2px;
 	font-size: 48px;
@@ -63,7 +63,7 @@ a:hover {
 
 #logo h2 {
 	float: right;
-	padding: 0px 0 0 0;
+	padding: 61px 0 0 0;
 	font-size: 28px;
 	
 }
@@ -81,7 +81,7 @@ a:hover {
 }
 
 #menu ul {
-	margin: 0;
+	margin: 1;
 	padding: 0;
 	list-style:none ;
 }
@@ -90,10 +90,6 @@ a:hover {
 	display: inline;
 }
 
-#menu li1 {
-	display: ;
-	
-	}
 #menu a {
 	display: block;
 	float: left;
@@ -136,25 +132,6 @@ a:hover {
 	padding: 0 0 10px 0;
 }
 
-#image-right { 
-  float:right; 
-  width:250px; 
-  height:59px;
-}
-
-#image-left { 
-  float:left; 
-  width:250px; 
-  height:36px; 
- } 
- 
-#image-center { 
-  display:block; 
-  width:246px; 
-  height:59px; 
-  margin:auto; 
- } 
-
 #prev {
 	display: block;
 	float: left;
@@ -177,18 +154,10 @@ a:hover {
 
 #thumbs {
 	display: block;
-	float: center;
+	float: left;
 	width: 640px;
 	height: 100px;
 	background: url(images/img12.gif) no-repeat;
-}
-
-#thumbs1 {
-	
-	
-	text-align: right;
-	font-size: small;
-	color: #FFFFFF;
 }
 
 #thumbs img {
@@ -239,10 +208,6 @@ a:hover {
 	float: left;
 	width: 250px;
 }
-#sidebar2 {
-	float: left;
-	width: 250px;
-}
 
 /* Boxed1 */
 
@@ -273,7 +238,7 @@ a:hover {
 
 .boxed a {
 	text-decoration: none;
-	color: #AB8A79;
+	color: #A9B293;
 }
 
 .boxed a:hover {
